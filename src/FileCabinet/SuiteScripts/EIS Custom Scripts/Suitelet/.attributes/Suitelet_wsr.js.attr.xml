@@ -1,0 +1,8 @@
+<file>
+  <availablewithoutlogin>F</availablewithoutlogin>
+  <bundleable>F</bundleable>
+  <description>This Suitelet makes the calls to all the WSR SSO (SuiteSignOn) Connection points.</description>
+  <generateurltimestamp>F</generateurltimestamp>
+  <hideinbundle>F</hideinbundle>
+  <isinactive>T</isinactive>
+</file>
