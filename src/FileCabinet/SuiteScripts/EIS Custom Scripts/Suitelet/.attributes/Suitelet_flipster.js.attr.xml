@@ -1,8 +1,0 @@
-<file>
-  <availablewithoutlogin>F</availablewithoutlogin>
-  <bundleable>F</bundleable>
-  <description>This Suitelet makes the calls to the Flipster SSO (SuiteSignOn) Connection point.</description>
-  <generateurltimestamp>F</generateurltimestamp>
-  <hideinbundle>F</hideinbundle>
-  <isinactive>T</isinactive>
-</file>

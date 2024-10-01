@@ -1,6 +1,0 @@
-<folder>
-  <bundleable>F</bundleable>
-  <description>This folder is used to store deprecated scripts which were originally stored in the EIS Custom Scripts folder.  This includes Scheduled, Client, User Event, RESTlet etc. script types.</description>
-  <isinactive>F</isinactive>
-  <isprivate>F</isprivate>
-</folder>
